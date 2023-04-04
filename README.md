@@ -7,4 +7,4 @@
 
 ## Live Site
 
-[Show Site](https://aygulysn.github.io/Hotel-website/)
+[Show Site](https://aygulysn.github.io/Vertical-Slider/)
