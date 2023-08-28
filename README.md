@@ -7,4 +7,4 @@
 
 ## Live Site
 
-[Show Site](https://aygulysn.github.io/Vertical-Slider/)
+[Show Site](https://yasin-aygl.github.io/Vertical-Slider/)
